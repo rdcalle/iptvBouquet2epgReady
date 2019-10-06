@@ -1,0 +1,14 @@
+{
+  "name": "iptvbouquet2epgready",
+  "version": "1.0.0",
+  "description": "Update an IPTV bouquet services file to be ready for EPG and PICONS",
+  "main": "iptvBouquet2Epg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Díaz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
